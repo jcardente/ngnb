@@ -85,11 +85,11 @@ done
 done
 ```
 
-The following commands were used to evaluated the models using the 
+The following commands were used to evaluate the models using the 
 test data set,
 
 ```
 python src/runtest.py nbMulti  data/trainGiniDicts.pk data/testDicts.pk
-python src/runtest.py pmm1  data/trainGiniDicts.pk data/testDicts.pk
-python src/runtest.py ngnb  data/trainGiniDicts.pk data/testDicts.pk
+python src/runtest.py pmm1     data/trainGiniDicts.pk data/testDicts.pk
+python src/runtest.py ngnb     data/trainGiniDicts.pk data/testDicts.pk
 ```

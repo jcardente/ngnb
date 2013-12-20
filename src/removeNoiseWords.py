@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# chi2FilterWords.py
+# removeNoiseWords.py
 # 
 # John Cardente
 #
